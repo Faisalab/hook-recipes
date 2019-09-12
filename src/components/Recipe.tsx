@@ -4,7 +4,7 @@ import axios from 'axios';
 import RecipeInfo from './RecipeInfo';
 import './Recipe.css';
 
-const apiKey = '43e64b26a7ea42ab9a949128d243ac64';
+const apiKey = 'API_KEY';
 
 
 const Recipe = (props:any) => {
